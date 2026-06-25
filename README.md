@@ -3,8 +3,8 @@
 ## Identitas Mahasiswa
 | Field | Isi |
 |-------|-----|
-| **Nama** | [ISI NAMA KAMU] |
-| **NIM** | [ISI NIM KAMU] |
+| **Nama** | Ilham Ramaisa Bintang |
+| **NIM** | 240631100049 |
 
 ## Judul Aplikasi
 **Sistem Pendataan Buku** — UAS Pemrograman Web 2024/2025 Genap
